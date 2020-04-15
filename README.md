@@ -1,3 +1,3 @@
-# Apple_Detector
-It is a tensorflow and Tkinter based GUI application to detect apple in images
+# Automate your work of labeling the images
+It is a tensorflow and Tkinter based GUI application to generate labeled  images with xml file.
 ![](apple.png)
